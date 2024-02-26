@@ -1,0 +1,118 @@
+
+ @media (max-width: 575.98px){
+    #banner {
+       
+        height: 341px;
+    }
+
+    .banner-text {
+        padding: 170px 0 90px;
+    }
+   
+    .banner-text h2 {
+        font-size: 12px;
+        color: white;
+        line-height: 24px;
+       
+    }
+   
+    /* best seller part */
+    .b-seller-cart a {
+        margin-bottom: 20px;
+    }
+
+    #best-seller {
+        padding: 22px 0;
+    }
+
+    .b-seller-left h3 {
+        font-size: 23px;
+        
+    }
+
+    /* best seller ends */
+/*  colection part */
+    .colection-text-1 a {
+        padding: 5px 23px;
+        font-size: 7px;
+       
+    }
+
+    .colection-text-3 a {
+        padding: 4px 21px;
+        font-size: 10px;
+        
+    }
+
+    /* colection part ends */
+
+      /* modiweek part  */
+      .modiweek-cart a {
+        margin-bottom: 20px;
+    }
+        /* modiweek part ends */
+
+        .offset-6 {
+            margin-left: 4%;
+        }
+
+        #Sustainability{
+            width: 100%;
+        }
+
+        .susta-text p {
+            font-size: 9px;
+            padding-bottom: 8px;
+            line-height: 153%;
+        }
+
+        .susta-text a {
+            padding: 8px 31px;          
+            font-size: 8px;
+        }
+
+        /* follow  section start */
+
+     
+
+
+        .follow-us-head h3 {
+            font-size: 13px;
+            padding-bottom: 17px;
+        }
+
+
+        .follow-image img {
+            height: 195px;
+        }
+
+        /*  footer  part  */
+
+        .content-text h4 {
+            font-size: 14px;
+            
+        }
+
+        .input-email input {
+          
+            width: 265px;
+            height: 33px;
+            padding-left: 10px;
+           
+        }
+
+        .email-btn-icon button {         
+        width: 25px;
+        font-size: 14px;             
+        display: flex;
+        align-items: center;
+        height: 22px;          
+        padding: 0px 5px;            
+        }
+
+        .email-btn-icon {
+           
+            top: 46px;
+            left: 42%;
+        }
+ }
