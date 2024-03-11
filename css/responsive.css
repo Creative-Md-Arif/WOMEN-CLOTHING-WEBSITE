@@ -1,7 +1,6 @@
 
  @media (max-width: 575.98px){
     #banner {
-       
         height: 341px;
     }
 
@@ -32,6 +31,16 @@
 
     /* best seller ends */
 /*  colection part */
+
+.colection-content {
+	padding-bottom: 20px;
+}
+
+.colection-content-2 {
+	margin-bottom: 20px;
+}
+
+
     .colection-text-1 a {
         padding: 5px 23px;
         font-size: 7px;
@@ -44,36 +53,56 @@
         
     }
 
+
+    .colection-text-2 a {
+        padding: 5px 21px;
+        font-size: 10px;
+    }
+
     /* colection part ends */
 
       /* modiweek part  */
       .modiweek-cart a {
         margin-bottom: 20px;
     }
+
+    #modiweek {
+        padding-bottom: 20px;
+        
+    }
+
+    .modiweek-head {
+        padding-top: 24px;
+    }
         /* modiweek part ends */
 
-        .offset-6 {
-            margin-left: 4%;
-        }
+     
 
         #Sustainability{
             width: 100%;
+            padding: 50px 0 10px;
         }
 
         .susta-text p {
             font-size: 9px;
-            padding-bottom: 8px;
+            padding-bottom: 4px;
             line-height: 153%;
+            color: black;
         }
 
         .susta-text a {
-            padding: 8px 31px;          
+            padding: 5px 9px;          
             font-size: 8px;
         }
 
+
+
         /* follow  section start */
 
-     
+        
+        #follow-us {
+            padding: 22px 0 0;
+        }
 
 
         .follow-us-head h3 {
@@ -83,7 +112,12 @@
 
 
         .follow-image img {
-            height: 195px;
+            height: 290px;
+        }
+
+
+        .follow-image-1 img {
+            height: 100%;
         }
 
         /*  footer  part  */
@@ -93,26 +127,81 @@
             
         }
 
+        .checkbox {
+            padding-bottom: 20px;
+        }
+
+
+        .copyright h6 {
+            font-size: 12px;
+            
+        }
+
+        .copyright img {
+            padding-right: 8px;
+            width: 20px;
+        
+        }
+
+
+        .content-text h4 {
+            padding-top: 20px;
+        }
+
         .input-email input {
-          
-            width: 265px;
-            height: 33px;
-            padding-left: 10px;
-           
+            
+            padding: 8px 30px  8px 5px;
         }
 
-        .email-btn-icon button {         
-        width: 25px;
-        font-size: 14px;             
-        display: flex;
-        align-items: center;
-        height: 22px;          
-        padding: 0px 5px;            
+
+        .email-btn-icon button {
+           padding: 21px 10px;
+
         }
 
-        .email-btn-icon {
-           
-            top: 46px;
-            left: 42%;
+    
+        .email-btn-icon button{
+            height: 25px;
         }
- }
+
+        
+    }
+
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+       
+    .banner-text h2 {
+        color: white;
+       
+    }       
+
+    .modiweek-cart {
+        padding-bottom: 20px;
+    }
+
+
+    #Sustainability {
+        padding: 140px 0 14px;
+    }
+
+
+    .susta-text p {
+        font-size: 14px;
+        padding-bottom: 12px;
+        line-height: 121%;
+    }
+
+    .susta-text {
+        padding-left: 170px;
+    }
+
+
+    .susta-text a {
+        padding: 6px 15px;
+        font-size: 11px;
+     
+    }
+
+
+   
+
+  }
