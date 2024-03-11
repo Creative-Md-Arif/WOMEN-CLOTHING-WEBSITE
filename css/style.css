@@ -100,7 +100,7 @@ h6 {
 /*  banner section ends */
 /*  best seller section strat */
 #best-seller {
-  padding: 88px 0;
+  padding: 50px 0;
 }
 .b-seller-head {
   display: flex;
@@ -274,7 +274,8 @@ h6 {
 
 /*  modiweek seller section strat */
 #modiweek {
-  padding-bottom: 50px;
+  padding: 50px 0 50px;
+  
 }
 
 .modiweek-head {
@@ -323,6 +324,7 @@ h6 {
 .modiweek-cart {
   display: flex;
   justify-content: center;
+  margin-bottom: 20px;
 }
 
 .modiweek-cart a {
