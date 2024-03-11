@@ -168,11 +168,26 @@
     }
 
  @media (min-width: 576px) and (max-width: 767.98px) { 
-       
+
+   
     .banner-text h2 {
         color: white;
        
-    }       
+    }  
+    
+    .colection-content {
+        padding-bottom: 20px;
+    }
+    
+    
+    .colection-content-2 {
+        margin-bottom: 20px;
+    }
+    
+    .b-seller-cart a {
+        margin-bottom: 20px;
+    }
+       
 
     .modiweek-cart {
         padding-bottom: 20px;
